@@ -14,9 +14,8 @@
 	<pre>npm create svelte@latest</pre>
 
 	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
+		This page is to make you happy. You need not be scared. Just been happy, mingle with people and be comfortable.
+		Ask questions whenever you're confused about anything.
 	</p>
 
 	<p>
